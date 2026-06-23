@@ -1,155 +1,156 @@
 {
   "business": {
     "name": "GTO Automotive",
-    "shortName": "GTO Auto",
-    "tagline": "Dallas' Trusted Auto Care Since 1985",
+    "shortName": "GTO Automotive",
+    "tagline": "Dallas' Trusted Auto Repair & Maintenance Experts",
     "niche": "Auto Mechanic",
     "phone": "(214) 630-8379",
     "address": "8222 Harry Hines Blvd, Dallas, TX 75235",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:30 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule Service",
+    "hours": "Mon-Fri: 7:30 AM - 5:30 PM, Sat: 8:00 AM - 12:00 PM",
+    "ctaLabel": "Schedule an Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "GTO Automotive | Expert Auto Mechanic in Dallas, TX | (214) 630-8379",
-    "description": "GTO Automotive is your trusted auto mechanic in Dallas, TX. From diagnostics to major repairs, we provide expert service with honesty and transparency. Call (214) 630-8379 today!"
+    "description": "GTO Automotive in Dallas, TX offers expert auto repair, maintenance, diagnostics, and more. Call (214) 630-8379 for reliable service you can trust."
   },
   "home": {
     "hero": {
-      "eyebrow": "Family-Owned & Operated Since 1985",
-      "headline": "Your Go-To Auto Mechanic in Dallas, TX",
-      "subheadline": "Expert diagnostics, repairs, and maintenance — backed by decades of experience and a commitment to quality.",
-      "primaryCta": "Schedule Service",
+      "eyebrow": "Dallas' Premier Auto Repair",
+      "headline": "Expert Auto Mechanic Serving Dallas, TX",
+      "subheadline": "From routine maintenance to complex repairs, trust GTO Automotive for honest, high-quality service that keeps you safe on the road.",
+      "primaryCta": "Schedule Appointment",
       "secondaryCta": "Call (214) 630-8379"
     },
     "stats": [
       {
-        "value": "38+",
-        "label": "Years of Service"
+        "value": "20+",
+        "label": "Years of Experience"
       },
       {
-        "value": "4.6",
+        "value": "5,000+",
+        "label": "Vehicles Repaired"
+      },
+      {
+        "value": "99%",
+        "label": "Customer Satisfaction"
+      },
+      {
+        "value": "4.9",
         "label": "Average Rating"
-      },
-      {
-        "value": "1,000+",
-        "label": "Vehicles Repaired Annually"
-      },
-      {
-        "value": "100%",
-        "label": "Customer Satisfaction Focus"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Comprehensive Diagnostics",
+        "eyebrow": "Advanced Diagnostics",
         "title": "State-of-the-Art Diagnostic Equipment",
-        "body": "We use the latest diagnostic tools to pinpoint issues quickly and accurately, saving you time and money.",
+        "body": "We use the latest diagnostic tools to quickly and accurately identify issues with your vehicle. No guesswork, just precise solutions.",
         "bullets": [
-          "Advanced computer diagnostics",
-          "Transmission and engine analysis",
+          "Computerized engine analysis",
+          "On-board diagnostics (OBD-II)",
           "Electrical system testing"
         ],
         "reverse": false,
-        "cardLabel": "Transparency",
-        "cardTitle": "Clear Explanations",
-        "cardBody": "We explain every issue in plain language and provide a detailed estimate before any work begins."
+        "cardLabel": "Diagnostics",
+        "cardTitle": "Fast & Accurate",
+        "cardBody": "Our technicians are trained to interpret diagnostic data efficiently, saving you time and money."
       },
       {
         "eyebrow": "Preventive Maintenance",
         "title": "Keep Your Car Running Smoothly",
-        "body": "Regular maintenance is the key to extending your vehicle's life. We offer tailored service intervals for every make and model.",
+        "body": "Regular maintenance is key to extending the life of your vehicle. We offer comprehensive services to keep your car in peak condition.",
         "bullets": [
-          "Oil changes and fluid checks",
-          "Tire rotations and alignments",
-          "Brake inspections and replacements"
+          "Oil changes & fluid checks",
+          "Tire rotations & alignments",
+          "Brake inspections & repairs"
         ],
         "reverse": true,
-        "cardLabel": "Convenience",
-        "cardTitle": "Flexible Scheduling",
-        "cardBody": "We work around your busy schedule with early morning drop-offs and prompt service."
+        "cardLabel": "Maintenance",
+        "cardTitle": "Peace of Mind",
+        "cardBody": "Our maintenance plans are tailored to your vehicle's needs, ensuring reliability and safety."
       }
     ],
     "whyTitle": "Why Choose GTO Automotive?",
     "whyChooseUs": [
       {
-        "title": "Experienced Technicians",
-        "description": "Our ASE-certified mechanics have decades of combined experience with all major vehicle brands."
+        "title": "Certified Technicians",
+        "description": "Our team is ASE-certified and continuously trained on the latest automotive technologies."
       },
       {
-        "title": "Honest Pricing",
-        "description": "We provide upfront, competitive pricing with no hidden fees — ever."
-      },
-      {
-        "title": "Quality Parts & Service",
-        "description": "We use only OEM or high-quality aftermarket parts and back our work with a solid warranty."
+        "title": "Honest & Transparent Pricing",
+        "description": "We provide upfront estimates with no hidden fees. You approve all work before we begin."
       },
       {
         "title": "Customer-First Approach",
-        "description": "Your satisfaction is our priority. We communicate clearly and ensure you're informed every step of the way."
+        "description": "We prioritize your convenience with shuttle service, loaner cars, and flexible scheduling."
+      },
+      {
+        "title": "Warranty-Backed Repairs",
+        "description": "All repairs come with a comprehensive warranty for your peace of mind."
       }
     ],
     "testimonials": [
       {
-        "quote": "GTO Automotive has been taking care of my family's cars for years. They're honest, fair, and do great work.",
+        "quote": "GTO Automotive is the only shop I trust with my car. They're honest, fair, and always do great work.",
         "author": "Mike R.",
-        "role": "Longtime Customer"
-      },
-      {
-        "quote": "I brought my car in for a check engine light and they diagnosed it quickly. The repair was done on time and on budget.",
-        "author": "Jessica L.",
         "role": "Dallas Resident"
       },
       {
-        "quote": "Finally found a mechanic I can trust. They explained everything and didn't try to upsell me. Highly recommend!",
-        "author": "Tom S.",
-        "role": "Repeat Customer"
+        "quote": "I've been coming here for years. They explain everything clearly and never try to upsell me.",
+        "author": "Lisa T.",
+        "role": "Regular Customer"
+      },
+      {
+        "quote": "Fast, reliable, and affordable. They saved me hundreds compared to the dealership.",
+        "author": "James K.",
+        "role": "Satisfied Driver"
       }
     ],
     "cta": {
-      "headline": "Ready to Experience Top-Tier Auto Service?",
-      "subheadline": "Call us or schedule online to get your car back on the road safely.",
-      "primaryCta": "Schedule Service",
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Schedule your appointment today and experience the GTO difference.",
+      "primaryCta": "Book Now",
       "secondaryCta": "Call (214) 630-8379"
     }
   },
   "servicesPage": {
-    "intro": "From routine maintenance to complex repairs, GTO Automotive offers a full range of auto services to keep your vehicle running at its best. Our experienced technicians use advanced equipment and quality parts to ensure your safety and satisfaction."
+    "intro": "At GTO Automotive, we offer a full range of auto repair and maintenance services for all makes and models. Our experienced technicians use top-tier equipment to ensure your vehicle runs safely and efficiently."
   },
   "services": [
     {
       "icon": "01",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert repairs for all engine issues.",
-      "longDescription": "Our technicians use cutting-edge diagnostic equipment to identify engine problems quickly. Whether it's a check engine light, loss of power, or strange noises, we'll get to the root cause and perform reliable repairs.",
+      "shortDescription": "Comprehensive engine diagnostics and repair to restore performance.",
+      "longDescription": "From check engine lights to major overhauls, we diagnose and repair all engine issues using advanced scanners and expert knowledge.",
       "benefits": [
-        "Fast and accurate diagnostics",
-        "Permanent solutions, not temporary fixes",
-        "Warranty on all repairs"
+        "Accurate problem identification",
+        "Improved fuel efficiency",
+        "Extended engine life",
+        "Restored power and performance"
       ],
       "process": [
         {
-          "title": "Inspection",
-          "description": "We connect your vehicle to our diagnostic system and run a full scan."
+          "title": "Computer Scan",
+          "description": "We connect your vehicle to our diagnostic system to retrieve error codes."
         },
         {
-          "title": "Diagnosis",
-          "description": "Our technician interprets the data and identifies the issue."
+          "title": "Physical Inspection",
+          "description": "Our technician performs a thorough visual and mechanical inspection."
         },
         {
-          "title": "Repair",
-          "description": "We perform the necessary repairs using quality parts and test-drive to confirm."
+          "title": "Repair & Verification",
+          "description": "We complete the repair and test-drive to confirm the issue is resolved."
         }
       ],
       "faqs": [
         {
           "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics are completed within an hour. Complex issues may require more time."
+          "answer": "Most diagnostics are completed within an hour."
         },
         {
-          "question": "Do you offer a warranty on engine repairs?",
-          "answer": "Yes, all our engine repairs come with a parts and labor warranty for your peace of mind."
+          "question": "Do you repair all engine types?",
+          "answer": "Yes, we work on gasoline, diesel, and hybrid engines."
         }
       ],
       "slug": "engine-diagnostics-repair"
@@ -157,35 +158,36 @@
     {
       "icon": "02",
       "title": "Brake Services",
-      "shortDescription": "Complete brake inspection, repair, and replacement.",
-      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid to ensure your braking system is in top condition. We offer both standard and performance options.",
+      "shortDescription": "Complete brake inspection, repair, and replacement for safety.",
+      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid to ensure optimal stopping power.",
       "benefits": [
-        "Thorough multi-point brake inspection",
-        "High-quality pads and rotors",
-        "Improved stopping power and safety"
+        "Shorter stopping distances",
+        "Reduced noise and vibration",
+        "Longer brake component life",
+        "Enhanced driving safety"
       ],
       "process": [
         {
-          "title": "Inspection",
-          "description": "We check brake pads, rotors, calipers, and fluid levels."
+          "title": "Brake Inspection",
+          "description": "We check pads, rotors, calipers, and fluid levels."
         },
         {
-          "title": "Recommendation",
-          "description": "We explain what needs to be replaced and provide options."
+          "title": "Component Replacement",
+          "description": "Worn parts are replaced with high-quality OEM or aftermarket components."
         },
         {
-          "title": "Installation",
-          "description": "We install new components and test the system for optimal performance."
+          "title": "System Test",
+          "description": "We test the brakes on the road to ensure proper function."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I replace my brakes?",
-          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits. We'll inspect them for free."
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-70,000 miles depending on driving habits."
         },
         {
-          "question": "Do you use OEM or aftermarket parts?",
-          "answer": "We offer both OEM and high-quality aftermarket options to fit your budget."
+          "question": "Do you offer brake pad warranties?",
+          "answer": "Yes, we provide a warranty on all brake parts and labor."
         }
       ],
       "slug": "brake-services"
@@ -193,124 +195,124 @@
     {
       "icon": "03",
       "title": "Oil Changes & Fluid Services",
-      "shortDescription": "Keep your engine running smoothly with regular oil changes.",
-      "longDescription": "Regular oil changes are the simplest way to extend engine life. We use premium oils and filters, and also check other fluids like coolant, transmission, and brake fluid.",
+      "shortDescription": "Regular oil changes and fluid checks to keep your engine healthy.",
+      "longDescription": "We provide quick, thorough oil changes using quality oils and filters, plus inspections of all critical fluids.",
       "benefits": [
-        "Extends engine life and performance",
-        "Includes multi-point inspection",
-        "Quick and convenient service"
+        "Engine longevity",
+        "Better fuel economy",
+        "Reduced engine wear",
+        "Peace of mind with routine checks"
       ],
       "process": [
         {
-          "title": "Drain & Replace",
-          "description": "We drain old oil and replace with the correct grade and filter."
+          "title": "Drain Old Oil",
+          "description": "We drain the old oil and replace the oil filter."
+        },
+        {
+          "title": "Refill with New Oil",
+          "description": "We add the correct grade and quantity of fresh oil."
         },
         {
           "title": "Fluid Check",
-          "description": "We top off all other fluids as needed."
-        },
-        {
-          "title": "Inspection",
-          "description": "We perform a visual check of belts, hoses, and undercarriage."
+          "description": "We top off all other fluids and provide a report."
         }
       ],
       "faqs": [
         {
           "question": "What type of oil do you use?",
-          "answer": "We use high-quality conventional or synthetic oil based on your vehicle's requirements."
+          "answer": "We use high-quality conventional, synthetic blend, and full synthetic oils."
         },
         {
           "question": "How often should I get an oil change?",
-          "answer": "Most vehicles need an oil change every 5,000-7,500 miles. Check your owner's manual."
+          "answer": "Every 3,000-5,000 miles for conventional, up to 7,500-10,000 for synthetic."
         }
       ],
       "slug": "oil-changes-fluid-services"
     },
     {
       "icon": "04",
-      "title": "Transmission Services",
-      "shortDescription": "Expert transmission repair and maintenance.",
-      "longDescription": "Transmission problems can be complex. Our technicians are trained to diagnose and repair both automatic and manual transmissions. We offer fluid changes, rebuilds, and replacements.",
+      "title": "Tire Services",
+      "shortDescription": "Tire rotation, balancing, alignment, and replacement.",
+      "longDescription": "Maximize tire life and improve handling with our professional tire services. We help you choose the right tires for your vehicle and driving needs.",
       "benefits": [
-        "Specialized transmission diagnostics",
-        "Fluid changes to prevent failure",
-        "Full rebuilds and replacements available"
+        "Even tire wear",
+        "Better fuel efficiency",
+        "Improved traction and handling",
+        "Extended tire lifespan"
       ],
       "process": [
         {
-          "title": "Diagnosis",
-          "description": "We scan for codes and test drive to assess transmission behavior."
+          "title": "Inspection",
+          "description": "We check tread depth, sidewall condition, and air pressure."
         },
         {
-          "title": "Service Plan",
-          "description": "We recommend the best course of action, from fluid change to rebuild."
+          "title": "Rotation & Balancing",
+          "description": "We rotate and balance tires to ensure smooth operation."
         },
         {
-          "title": "Completion",
-          "description": "We perform the service and test drive to ensure smooth operation."
+          "title": "Alignment Check",
+          "description": "We adjust suspension angles to meet manufacturer specifications."
         }
       ],
       "faqs": [
         {
-          "question": "What are signs of transmission trouble?",
-          "answer": "Slipping gears, delayed engagement, strange noises, or fluid leaks are common signs."
+          "question": "How often should I rotate my tires?",
+          "answer": "Every 5,000-7,500 miles or as recommended in your owner's manual."
         },
         {
-          "question": "Do you rebuild transmissions?",
-          "answer": "Yes, we have the expertise to rebuild most transmissions in-house."
+          "question": "Do you sell tires?",
+          "answer": "Yes, we offer a wide selection of brands and can order specific tires for your vehicle."
         }
       ],
-      "slug": "transmission-services"
+      "slug": "tire-services"
     }
   ],
   "about": {
-    "headline": "Dallas' Trusted Auto Care Since 1985",
-    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road.",
+    "headline": "Your Trusted Auto Repair Partner in Dallas",
+    "mission": "To provide honest, high-quality automotive repair and maintenance services that keep our customers safe and satisfied.",
     "story": [
-      "GTO Automotive was founded in 1985 with a simple mission: provide reliable auto repair with integrity. Over the decades, we've grown from a small shop to a trusted name in Dallas, serving generations of families. Our team brings together decades of combined experience, and we invest in the latest diagnostic technology to serve you better.",
-      "We believe in transparency and education. Every customer receives a clear explanation of their vehicle's needs, along with a fair estimate. Whether it's a minor tune-up or a major engine repair, we treat every car as if it were our own. That commitment has earned us a loyal customer base and a reputation for excellence."
+      "GTO Automotive has been serving the Dallas community for over two decades. Founded by a team of passionate mechanics, our shop has grown from a small garage into a full-service auto repair center known for integrity and expertise.",
+      "We believe in treating every customer like family. Our technicians take the time to explain repairs, answer questions, and ensure you feel confident in the work we do. Whether it's a simple oil change or a complex engine rebuild, we approach every job with the same dedication to quality."
     ],
     "highlight": {
-      "stat": "38+",
-      "label": "Years of Serving Dallas"
+      "stat": "20+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell you what your car needs — and what it doesn't."
+        "description": "We always tell you what your car needs and why, with no hidden agendas."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and stand behind our work with a warranty."
+        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
       },
       {
-        "title": "Expertise",
-        "description": "Our technicians are ASE-certified and continuously trained."
+        "title": "Customer Focus",
+        "description": "Your satisfaction and safety are our top priorities."
       },
       {
-        "title": "Community",
-        "description": "We're proud to be a local business that gives back to Dallas."
+        "title": "Continuous Improvement",
+        "description": "We invest in ongoing training and equipment to stay ahead."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch",
-    "subheadline": "Ready to schedule service or have a question? Call or stop by today.",
+    "headline": "Get in Touch with GTO Automotive",
+    "subheadline": "Call us or stop by today. We're here to help with all your auto repair needs.",
     "primaryCta": "Call (214) 630-8379",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Highland Park",
-      "University Park",
       "Irving",
+      "Garland",
+      "Mesquite",
       "Addison",
-      "Farmers Branch",
-      "Carrollton",
-      "Garland"
+      "Farmers Branch"
     ]
   },
   "social_proof": {
-    "rating": 4.6,
+    "rating": "",
     "reviews": null
   },
   "meta": {
